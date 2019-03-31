@@ -11,6 +11,7 @@ public class demoaut {
 		
 		System.out.println("wey gud ale");
 		System.out.println("wey gud ale");
+		System.out.println("wey gud ale");
 		
 		
 		/*System.setProperty("webdriver.chrome.driver", "C:\\Test automation\\Jar\\chromedriver.exe");
