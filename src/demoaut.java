@@ -9,7 +9,8 @@ public class demoaut {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://demoaut.com/");
 		
-		System.out.println("I miss you Biniye");
+		System.out.println("wey gud ale");
+		System.out.println("wey gud ale");
 		
 		
 		/*System.setProperty("webdriver.chrome.driver", "C:\\Test automation\\Jar\\chromedriver.exe");
